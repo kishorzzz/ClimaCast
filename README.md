@@ -34,4 +34,3 @@ bun run build
 - Built with modern React patterns and TypeScript
 - Responsive design with Tailwind CSS
 - Pre-configured shadcn/ui components
->>>>>>> 642ef6b (Initial commit)
